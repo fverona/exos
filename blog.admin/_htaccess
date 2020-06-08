@@ -1,0 +1,4 @@
+AuthName "Page d'administration protégée"
+AuthType Basic
+AuthUserFile "D:\wamp64\www\exos\blog.admin\.htpasswd"
+Require valid-user

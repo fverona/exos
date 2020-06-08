@@ -1,0 +1,56 @@
+table
+{
+    border-collapse: collapse; /* Les bordures du tableau seront collées (plus joli) */
+}
+th,td
+{
+    border: 2px solid blue;text-align: center;
+    background-color:#49CB63; 	
+}
+
+.texte
+{
+   height:15px;
+   width:1100px;
+   font-family: "Courier New", Courier, monospace;
+   font-size: 13px;
+   background-color:#E0F08F;
+   color: #561D13;
+}
+
+.td_texte
+{
+   width:1100px;
+   font-family: "Courier New", Courier, monospace;
+   font-size: 13px;
+   text-align: left;
+   color: #561D13;
+   background-color:#E0F08F;
+}
+
+.td_id
+{
+    width:25px;
+}
+
+.td_pseudo
+{
+   width:160px;
+   font-family: "Courier New", Courier, monospace;
+   font-size: 13px;
+   background-color:#F0E761;
+   color: #561D13;
+   font-weight: bold;
+}
+
+label
+{
+	display: block; /* La balise devient de type block. */
+	width: 60px;
+	float:left;
+	background-color:#D1C8AC;
+}
+.msgerr
+{
+	color: red;
+}

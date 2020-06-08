@@ -1,0 +1,79 @@
+h1, h3
+{
+    text-align:center;
+}
+h3
+{
+    background-color:black;
+    color:white;
+    font-size:0.9em;
+    margin-bottom:0px;
+}
+p
+{
+    background-color:#CCCCCC; 
+    margin-top:0px;
+}
+
+.areasaisie
+{
+    display: block;
+    margin:auto;
+    font-size:0.9em;
+    margin-top:4px;
+    margin-bottom:6px;
+    width:50%;
+}    
+.news
+{
+    width:50%;
+    margin:auto;
+}
+a
+{
+    text-decoration: underline;
+    color: blue;
+}
+
+.valider
+{
+ margin-top:10px;
+ color:#ff4000; border-radius:16px;
+}
+
+
+.arrow-right
+{
+
+    width: 0;
+    height: 0;
+    border-top: 9px solid transparent;
+    border-left: 20px solid #555;
+    border-bottom: 7px solid transparent;
+    margin-left:20px;
+
+}
+.arrow-left
+{
+    width: 0;
+    height: 0;
+    border-top: 9px solid transparent;
+    border-right: 20px solid #555;
+    border-bottom: 7px solid transparent;
+    margin-left:505px;
+}
+
+.pagescmt
+{
+ margin-left:550px;
+ font-size:20px;
+}
+
+.suppr
+{
+    background-color:white;
+    margin-left:25%;
+    margin-top:20px;
+    margin-bottom:10px;font-size:20px;
+}
+
